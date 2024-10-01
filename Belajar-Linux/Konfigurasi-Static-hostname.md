@@ -13,6 +13,7 @@
    ```
 2. **Ganti Hostname sesuai apa yang di inginkan**
 
+    ```
     adam-server.com
     ```
     Kemudian Save perubahan tadi dengan Ctrl+O dan Ctrl+X
@@ -25,4 +26,4 @@
     hostname -f
     ```
     jika sudah berhasil maka akan muncul hostname yang diinginkan
-    [Hostname Configuration](https://github.com/adampnggwa/BELAJAR-YAVA247/raw/main/image/hostname.png)
+    ![Hostname Configuration](https://github.com/adampnggwa/BELAJAR-YAVA247/raw/main/image/hostname.png)
