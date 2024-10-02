@@ -29,6 +29,5 @@
     ```
     ifconfig --version
     ```
-
-    Jika sudah berhasil maka akan muncul seperti dibawah ini
+    
     ![Net-Tools](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/nettools.png)
