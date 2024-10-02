@@ -19,7 +19,7 @@
     Gunakan command dibawah ini
 
     ```
-    dns install epel-release -y
+    dnf install epel-release -y
     ```
     
 3. **Kemudian aktifkan repo powertools**
