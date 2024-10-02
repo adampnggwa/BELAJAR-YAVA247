@@ -35,3 +35,4 @@
 7. **Login ke Sistem**
    - Setelah instalasi selesai, reboot sistem.
    - Login menggunakan user dan password yang telah dibuat selama proses instalasi.
+   ![Rocky8](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/rockyfix.png)
