@@ -10,12 +10,12 @@
 
     - Strucktur directory
 
-        ‘/' root directory
-        ‘/home’ directory home untuk user
-        ‘/etc’ directory configurasi system
-        ‘/var’ directory untuk file yang sering berubah
-        ‘/user’ direktory untuk file aplikasi yang di bagikan
-        '/bin’ direktory untuk biner
+        - ‘/' root directory
+        - ‘/home’ directory home untuk user
+        - ‘/etc’ directory configurasi system
+        - ‘/var’ directory untuk file yang sering berubah
+        - ‘/user’ direktory untuk file aplikasi yang di bagikan
+        - '/bin’ direktory untuk biner
 
 2. **Konsep dasar Navigasi**
 
@@ -123,42 +123,42 @@
 
        - managemen pengguna (useradd)
 
-            'sudo useradd nama_user' (membuat user)
-            ‘sudo passwd nama_user’ (set password)
-            ‘sudo userdel nama_user’ (menghapus user)
-            ‘sudo userdel -r nama_user’ (menghapus beserta direktori user)
-            ‘sudo passwd nama_user’ (menganti password)
+            - 'sudo useradd nama_user' (membuat user)
+            - ‘sudo passwd nama_user’ (set password)
+            - ‘sudo userdel nama_user’ (menghapus user)
+            - ‘sudo userdel -r nama_user’ (menghapus beserta direktori user)
+            - ‘sudo passwd nama_user’ (menganti password)
 
         - Managemen Group (groupadd)
 
-            ‘sudo groupadd nama-grup’ (membuat grup)
-            ‘sudo groupdel nama_grup’ (menghapus grup)
-            ‘sudo usermod -aG nama_grup nama_user’ (memasukan user ke grup)
+            - ‘sudo groupadd nama-grup’ (membuat grup)
+            - ‘sudo groupdel nama_grup’ (menghapus grup)
+            - ‘sudo usermod -aG nama_grup nama_user’ (memasukan user ke grup)
 
         - Management Packet dengan dnf untuk (fedora, CentOS,Rocky)
 
-            ‘sudo dnf install nama_packet’ (untuk install packet)
-            ‘sudo dnf remove nama_packet’ (untuk menghapus packet)
-            ‘sudo dnf update’ (untuk update packet yang sudah terinstall)
-            ‘sudo dnf search nama_packet’ (mencari packet yang sudah terinstall)
+            - ‘sudo dnf install nama_packet’ (untuk install packet)
+            - ‘sudo dnf remove nama_packet’ (untuk menghapus packet)
+            - ‘sudo dnf update’ (untuk update packet yang sudah terinstall)
+            - ‘sudo dnf search nama_packet’ (mencari packet yang sudah terinstall)
 
     - Layanan system dan Log (systemctl dan journalctl)
 
         - Layanan system (systemctl)
 
-            ‘sudo systemctl start nama_layanan’ (memulai layanan)
-            ‘sudo systemctl stop nama_layanan’ (menghentikan layanan)
-            ‘sudo systemctl restart nama_layanan’ (merestart layanan)
-            ‘sudo systemctl enable nama_layanan’ (untuk membuat layanan berjalan otomatis seteleh boot)
-            ‘sudo systemctl disable nama_layanan’ (untuk menonaktifkan)
+            - ‘sudo systemctl start nama_layanan’ (memulai layanan)
+            - ‘sudo systemctl stop nama_layanan’ (menghentikan layanan)
+            - ‘sudo systemctl restart nama_layanan’ (merestart layanan)
+            - ‘sudo systemctl enable nama_layanan’ (untuk membuat layanan berjalan  otomatis seteleh boot)
+            - ‘sudo systemctl disable nama_layanan’ (untuk menonaktifkan)
 
         - Log System
 
-            'journalctl' (untuk melihat log system)
-            ‘journalctl -b’ (untuk melihat log boot terakhir)
-
+            - 'journalctl' (untuk melihat log system)
+            - ‘journalctl -b’ (untuk melihat log boot terakhir)
                 - bisanya log di simpan di /var/log
-                - untuk melihat isi log bisa menggunakan perintak(cat,less,tail) - - - contoh
+                - untuk melihat isi log bisa menggunakan perintak(cat,less,tail)
+                - contoh
 
                     1. cat /var/log/syslog
                     2. less /var/log/syslog
