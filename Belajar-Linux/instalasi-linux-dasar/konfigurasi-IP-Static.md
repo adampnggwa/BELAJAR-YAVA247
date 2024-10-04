@@ -19,12 +19,12 @@
     Gunakan command dibawah ini
 
     ```
-    nano /etc/sysconfig/network-scripts/ifcfg-enp0s3
+    nano /etc/sysconfig/network-scripts/ifcfg-enp0s8
     ```
     Sesuaikan bagian dibawah ini
     
     ```sh
-    BOOTPROTO=static
+    BOOTPROTO=none
     IPADDR=192.168.1.100
     NETMASK=255.255.255.0
     ONBOOT=yes
