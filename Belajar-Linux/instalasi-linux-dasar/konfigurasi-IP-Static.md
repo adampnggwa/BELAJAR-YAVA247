@@ -6,7 +6,11 @@
 
 ## Details
 
-1. **Cek apakah anda sudah mendapatkan IP Bridgenya**
+1. **Langkah pertama tambahkan jaringan pada VM**
+
+    ![Jaringan](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/jaringan.png)
+
+2. **Cek apakah anda sudah mendapatkan IP Bridgenya**
 
     Untuk cek IP gunakan command dibawah ini
 
@@ -14,7 +18,7 @@
     ip addr show
     ```
 
-2. **Buka file ifcfg-enp0s3 untuk konfigurasi ip menjadi static**
+3. **Buka file ifcfg-enp0s3 untuk konfigurasi ip menjadi static**
 
     Gunakan command dibawah ini
 
@@ -31,11 +35,11 @@
     ```
     Save dan Exit
 
-3. **Restart NetworkManager**
+4. **Restart NetworkManager**
     ```
     systemctl restart NetworkManager
     ```
-4. **Cek apakah IP Static telah berhasil dibuat**
+5. **Cek apakah IP Static telah berhasil dibuat**
     ```
     ip addr show
     ```

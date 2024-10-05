@@ -25,5 +25,5 @@
     ```
     hostname -f
     ```
-    jika sudah berhasil maka akan muncul hostname yang diinginkan
+    
     ![Hostname](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/hostname.png)
