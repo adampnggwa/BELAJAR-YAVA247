@@ -58,12 +58,24 @@
     | ls ../                 | Menampilkan isi direktori induk.                                                          |
     | ls --version           | Memeriksa versi dari perintah ls.                                                          |
 
-    Berikut ini adalah contoh penggunaan command cd pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh penggunaan command 'ls sampai ls -lh' pada linux (Rocky Linux 8).
 
     ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-lh.png)
+
+    Berikut ini adalah contoh penggunaan command 'ls -lhs sampai ls -g' pada linux (Rocky Linux 8).
+
     ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-g.png)
+
+    Berikut ini adalah contoh penggunaan command 'ls -n sampai ls -p' pada linux (Rocky Linux 8).
+
     ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-p.png)
+
+    Berikut ini adalah contoh penggunaan command 'ls -r sampai ls -lt' pada linux (Rocky Linux 8).
+
     ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-lt.png)
+
+    Berikut ini adalah contoh penggunaan command 'ls ~ sampai ls --version' pada linux (Rocky Linux 8).
+
     ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-last.png)
 
 #
