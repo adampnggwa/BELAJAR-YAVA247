@@ -66,6 +66,62 @@
     | /usr | Berkas baca-saja dan dibagikan, pustaka, berkas biner, dan dokumentasi. |
     | /var | Berkas data variabel seperti log, basis data, dll. |
 
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
+    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+
 #
 - Types of Linux File System
     | Jenis       | Deskripsi    
@@ -79,6 +135,11 @@
     | XFS | Sistem berkas berkecepatan tinggi untuk I/O paralel, digunakan oleh NASA untuk penyimpanan besar. |
     | Btrfs | B tree file system dengan toleransi kesalahan dan konfigurasi penyimpanan ekstensif, tidak cocok untuk produksi. |
     | Swap | Digunakan untuk paging memori saat hibernasi, ruang swap setara RAM diperlukan jika tidak dihibernasi. |
+
+    Berikut ini adalah untuk cek file sistem yang terpasang menggunakan command df -T pada linux (Rocky Linux 8).
+
+    ![berkas](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/fs1.png)
+
 
 #
 - Linux File Command
