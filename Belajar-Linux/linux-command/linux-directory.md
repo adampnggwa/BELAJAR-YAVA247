@@ -29,6 +29,11 @@
     | cd dir     | (tanpa menggunakan /) Memungkinkan pengguna tetap berada di subdirektori. |
     | cd ..      | Mengarahkan pengguna satu tingkat di atas direktori.  |
     | cd -       | Mengubah pengguna ke direktori sebelumnya.             |
+
+    Berikut ini adalah contoh penggunaan command cd pada linux (Rocky Linux 8).
+
+    ![CD](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cd.png)
+
 #
 - List (ls)
     | Command   | Fungsi      |
@@ -53,6 +58,14 @@
     | ls ../                 | Menampilkan isi direktori induk.                                                          |
     | ls --version           | Memeriksa versi dari perintah ls.                                                          |
 
+    Berikut ini adalah contoh penggunaan command cd pada linux (Rocky Linux 8).
+
+    ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-lh.png)
+    ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-g.png)
+    ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-p.png)
+    ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-lt.png)
+    ![LS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/ls-last.png)
+
 #
 - Make Directory (mkdir)
     | Command             | Fungsi       |
@@ -62,9 +75,18 @@
     | mkdir -v, -verbose      | Menampilkan pesan untuk setiap direktori yang dibuat.   |
     | mkdir -m -mode=MODE     | Mengatur hak akses (privilege) untuk direktori.         |
 
+    Berikut ini adalah contoh penggunaan command mkdir pada linux (Rocky Linux 8).
+
+    ![PWD](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/mkdir.png)
+
+
 #
 - Remove Directory (rmdir)
     | Command   | Fungsi |
     |--------|------|
     | rmdir | Menghapus direktori |
     |rmdir -p, -parents | Menghapus direktori beserta subdirektorinya jika ada |
+
+    Berikut ini adalah contoh penggunaan command rmdir pada linux (Rocky Linux 8).
+
+    ![RMDIR](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/rmdir.png)
