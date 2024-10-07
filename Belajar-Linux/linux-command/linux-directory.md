@@ -14,6 +14,8 @@
     | pwd -L  | Menampilkan jalur logis direktori kerja saat ini.|
     | pwd -P | Menampilkan jalur fisik direktori kerja saat ini. |
 
+    Berikut ini adalah contoh penggunaan command pwd pada linux (Rocky Linux 8).
+
     ![PWD](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/pwd.png)
 
 #
