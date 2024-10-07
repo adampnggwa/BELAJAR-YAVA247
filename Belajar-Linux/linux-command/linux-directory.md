@@ -14,7 +14,7 @@
     | pwd -L  | Menampilkan jalur logis direktori kerja saat ini.|
     | pwd -P | Menampilkan jalur fisik direktori kerja saat ini. |
 
-    ![PWD](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/pwd.png)
+    ![PWD](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/pwd.png)
 
 #
 - Change Directory (cd)
