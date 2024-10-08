@@ -129,7 +129,7 @@
     |less [nama berkas]	|Menampilkan isi berkas satu layar penuh, menyesuaikan lebar dan tinggi jendela terminal.|
     |less [berkas1] [berkas2]	|Menampilkan isi beberapa berkas secara berurutan. Dapat berpindah antar berkas saat tampilan "less" terbuka.|
 
-    Berikut ini adalah contoh penggunaan command less pada linux (Rocky Linux 8).
+    Berikut ini adalah hasil penggunaan command less pada linux (Rocky Linux 8).
 
     ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc27.png)
 
