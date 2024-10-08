@@ -66,61 +66,65 @@
     | /usr | Berkas baca-saja dan dibagikan, pustaka, berkas biner, dan dokumentasi. |
     | /var | Berkas data variabel seperti log, basis data, dll. |
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /(root) pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file1.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /boot pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file2.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /bin pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file3.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /dev pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file4.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /etc pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file5.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /lib pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file6.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /home pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file7.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /mnt pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file8.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /media pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file9.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /opt pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file10.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /root pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file11.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /tmp pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file12.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /sbin pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file13.png)
 
-    Berikut ini adalah contoh direktori pada linux (Rocky Linux 8).
+    Berikut ini adalah contoh direktori /usr pada linux (Rocky Linux 8).
 
-    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file.png)
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file14.png)
+
+    Berikut ini adalah contoh direktori /var pada linux (Rocky Linux 8).
+
+    ![DS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/file15.png)
 
 #
 - Types of Linux File System
