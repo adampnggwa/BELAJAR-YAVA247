@@ -156,3 +156,30 @@
     | mv|   Untuk memindahkan berkas |
     | rename|   Untuk mengubah nama berkas |
 
+    Berikut ini adalah contoh penggunaan command file pada linux (Rocky Linux 8).
+
+    ![cm](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cm1.png)
+
+    Berikut ini adalah contoh penggunaan command touch pada linux (Rocky Linux 8).
+
+    ![cm](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cm2.png)
+
+    Berikut ini adalah contoh penggunaan command rm pada linux (Rocky Linux 8).
+
+    ![cm](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cm3.png)
+
+    Berikut ini adalah contoh penggunaan command cp pada linux (Rocky Linux 8).
+
+    ![cm](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cm4.png)
+
+    Berikut ini adalah contoh penggunaan command cp -r pada linux (Rocky Linux 8).
+
+    ![cm](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cm4,5.png)
+
+    Berikut ini adalah contoh penggunaan command mv pada linux (Rocky Linux 8).
+
+    ![cm](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cm5.png)
+
+    Berikut ini adalah contoh penggunaan command rename pada linux (Rocky Linux 8).
+
+    ![cm](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/cm6.png)
