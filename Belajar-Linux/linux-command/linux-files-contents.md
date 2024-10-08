@@ -67,12 +67,35 @@
     |cat -e [nama berkas]	|Menampilkan isi berkas dengan simbol '$' di akhir setiap baris.|
     |cat << EOF	|Membuat dan mengisi berkas dengan menghentikan pada tanda "EOF".|
 
+    Berikut ini adalah contoh penggunaan command cat pada linux (Rocky Linux 8).
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc12.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc13.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc14.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc15.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc16.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc17.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc18.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc19.png)
 #
 - Command Tac
     | Command            | Fungsi      |
     |--------------|---------------|
     |tac [nama berkas]	|Menampilkan isi berkas dalam urutan terbalik (dari baris terakhir ke baris pertama).|
     |tac [nama berkas] --separator "string"	|Memisahkan isi berkas dari string yang ditentukan.|
+
+    Berikut ini adalah contoh penggunaan command tac pada linux (Rocky Linux 8).
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/tac.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc20.png)
 
 #
 - Command More
@@ -85,9 +108,29 @@
     |more +/string [nama berkas]	|Mencari string dalam berkas dan mulai menampilkan dari baris pertama yang cocok.  |
     |more +num [nama berkas]|Memulai menampilkan isi dari berkas dari baris tertentu.  |
 
+    Berikut ini adalah contoh penggunaan command more pada linux (Rocky Linux 8).
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc21.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc22.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc23.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc24.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc25.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc26.png)
+
 #
 - Command Less
     | Command            | Fungsi      |
     |--------------|---------------|
     |less [nama berkas]	|Menampilkan isi berkas satu layar penuh, menyesuaikan lebar dan tinggi jendela terminal.|
     |less [berkas1] [berkas2]	|Menampilkan isi beberapa berkas secara berurutan. Dapat berpindah antar berkas saat tampilan "less" terbuka.|
+
+    Berikut ini adalah contoh penggunaan command less pada linux (Rocky Linux 8).
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc27.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc28.png)
