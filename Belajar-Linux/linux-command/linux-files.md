@@ -142,8 +142,7 @@
 
     Berikut ini adalah untuk cek file sistem yang terpasang menggunakan command df -T pada linux (Rocky Linux 8).
 
-    ![berkas](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/fs1.png)
-
+    ![FS](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/fs1.png)
 
 #
 - Linux File Command

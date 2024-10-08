@@ -17,6 +17,18 @@
     | head -c [number] [file]         | Menghitung jumlah byte dari sebuah berkas                        |
     | head -c [jumlah_byte]k [file]   | Menghitung jumlah byte dengan pengali dan satuan. Pengali dapat berupa "b" (bytes=512), "k" (kilobytes=1024), atau "m" (megabytes=1048576).    |
 
+    Berikut ini adalah contoh penggunaan command head pada linux (Rocky Linux 8).
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc1.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc2.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc3.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc4.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc5.png)
+
 #
 - Command Tail
     | Command            | Fungsi      |
@@ -27,6 +39,20 @@
     | tail -f [nama berkas]	| Memantau perubahan pada berkas dan menampilkan baris baru saat ditambahkan (gunakan Ctrl+C untuk keluar).|
     | tail -n 6 [perintah] tail	| Menampilkan enam baris terakhir dari keluaran suatu perintah.|
     | tail [berkas1] [berkas2]	| Menampilkan sepuluh baris terakhir dari beberapa berkas sekaligus.|
+
+    Berikut ini adalah contoh penggunaan command tail pada linux (Rocky Linux 8).
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc6.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc7.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc8.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc9.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc10.png)
+
+    ![LC](https://github.com/adampnggwa/BELAJAR-YAVA247/blob/main/Image/command%20linux/lc11.png)
 
 #
 - Command Cat
